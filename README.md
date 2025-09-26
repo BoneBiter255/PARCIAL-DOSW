@@ -1,3 +1,7 @@
+## 1. Diagrama de contexto.
+<img width="893" height="588" alt="image" src="https://github.com/user-attachments/assets/9d7a039f-06ad-4e17-a644-1addb78941e6" />
+## 2. Diagrama de casos de uso.
+<img width="680" height="792" alt="image" src="https://github.com/user-attachments/assets/9a005a7d-a61d-4383-b14c-e1c68d19dcde" />
 ## 3. Diagrama de Clases y Principios SOLID
 
 ### Diagrama de Clases
