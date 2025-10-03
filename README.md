@@ -89,4 +89,5 @@ Este patrón define una dependencia uno-a-muchos entre objetos, de manera que cu
 
 ## 8. Analisis estatico con Sonnar:  
 
-[text](README.md) ![text](docs/imagenes/sonnar.png)
+<img width="1207" height="647" alt="image" src="https://github.com/user-attachments/assets/bff3890b-ab36-490e-8fed-5a6ed1e58c8c" />
+
